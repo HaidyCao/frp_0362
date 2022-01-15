@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fatedier/frp/pkg/auth"
-	plugin "github.com/fatedier/frp/pkg/plugin/server"
-	"github.com/fatedier/frp/pkg/util/util"
+	"github.com/HaidyCao/frp_0362/pkg/auth"
+	plugin "github.com/HaidyCao/frp_0362/pkg/plugin/server"
+	"github.com/HaidyCao/frp_0362/pkg/util/util"
 
 	"gopkg.in/ini.v1"
 )
